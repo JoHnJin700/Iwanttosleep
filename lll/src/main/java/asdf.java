@@ -11,5 +11,6 @@
 public class asdf {
     public static void main(String[] args) {
         System.out.println("뇽안뇽안");
+        System.out.println("안뇽안뇽");
     }
 }
